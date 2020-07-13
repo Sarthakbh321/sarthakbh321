@@ -9,6 +9,9 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ## What I know :computer:
 - **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
