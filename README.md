@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="intro.gif">
+	<img src="https://github.com/Sarthakbh321/intro.gif">
 </div>
 
 ## About me :mortar_board:
