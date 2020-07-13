@@ -21,7 +21,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 - Unlock the secret to the universe :rofl:
 
 ## Reach me 
-[Follow Me](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)
+[![Follow Me](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)]
 
 <!--
 **Sarthakbh321/sarthakbh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
