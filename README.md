@@ -15,7 +15,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 	- React with Redux :electron:
 	- React Native
 
-## What I want to learn :thinking:
+## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
 - At least delve into AI and ML.
 - Unlock the secret to the universe :rofl:
@@ -25,6 +25,13 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 [![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/sarthak_bharadwaj_/)
 [![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
 [![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
+
+
+### Interesting stats
+
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+
+Thanks for stopping by! 😁
 
 <!--
 **Sarthakbh321/sarthakbh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
