@@ -32,7 +32,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ### Interesting stats
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true&count_private=true&hide=stars)
 
 Thanks for stopping by! 😁
 
