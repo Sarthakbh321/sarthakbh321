@@ -47,7 +47,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Javascript</strong></span><br/>
+						<span><strong>Bootstrap</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 					</td>
 				</tr>
