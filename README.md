@@ -9,19 +9,104 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ## What I know :computer:
 - **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 - **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- React Native
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Redux</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Material UI</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>React Native</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Vue.JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+	
+- **Backend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Firebase</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
-- Unlock the secret to the universe :rofl:
+- Become complete full stack
+- Delve into AI and ML
+- Cybersecurity and Ethical Hacking
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
