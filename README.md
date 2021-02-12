@@ -68,6 +68,8 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 						<span><strong>React Native</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
 					</td>
+				</tr>
+				<tr>
 					<td width="20%" align="center">
 						<span><strong>Vue.JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
