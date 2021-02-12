@@ -123,6 +123,8 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 Thanks for stopping by! 😁
 
+![](https://komarev.com/ghpvc/?username=Sarthakbh321&color=blueviolet)
+
 <!--
 **Sarthakbh321/sarthakbh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
