@@ -34,43 +34,41 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 		<table>
 			<tbody>
 				<tr>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>HTML</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>CSS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 					</td>
-				</tr>
-				<tr>
-					<td width="20%" align="center">
+					<td align="center">
 						<span><strong>React</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
 					</td>
-					<td width="20%" align="center">
+					<td  align="center">
 						<span><strong>Redux</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 					</td>
-					<td width="20%" align="center">
+					<td align="center">
 						<span><strong>Material UI</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
 					</td>
-					<td width="20%" align="center">
+					<td align="center">
 						<span><strong>React Native</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
 					</td>
 				</tr>
 				<tr>
-					<td width="20%" align="center">
+					<td align="center">
 						<span><strong>Vue.JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
 					</td>
