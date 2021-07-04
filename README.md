@@ -106,7 +106,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 ## What I want to do next :thinking:
 - Delve into AI and ML
 - Cybersecurity and Ethical Hacking
-- Qualify GSOC and ICPC!
+- Qualify for GSOC and ICPC World Finals!
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
