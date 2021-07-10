@@ -69,6 +69,10 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 				</tr>
 				<tr>
 					<td align="center">
+						<span><strong>Next JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://camo.githubusercontent.com/17cf3aeccd17a77f0ce36c0eb2bb6542c9ecbbd5e43f72f52360a423ee991ac6/68747470733a2f2f7374796c65732e7265646469746d656469612e636f6d2f74355f33683779692f7374796c65732f636f6d6d756e69747949636f6e5f396473396b75676d39396735312e706e673f77696474683d32353626733d33656534633330643437333664633430323433313964353363323063366461636235643131626230">
+					</td>
+					<td align="center">
 						<span><strong>Vue.JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
 					</td>
