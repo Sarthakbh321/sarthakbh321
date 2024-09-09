@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a Software Engineer, currently working in Motorq. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
@@ -112,9 +112,9 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 	</center>
 
 ## What I want to do next :thinking:
-- Delve into AI and ML
-- Cybersecurity and Ethical Hacking
-- Qualify for GSOC and ICPC World Finals!
+- Build something that creates an impact
+- Keep chasing my hunt for knowledge
+- Travel the world 🌍
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
